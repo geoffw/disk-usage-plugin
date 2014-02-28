@@ -6,7 +6,7 @@ package hudson.plugins.disk_usage;
  */
 public class DiskUsage {
 
-    long buildUsage = 0;
+    long buildUsage = 10;
     long wsUsage = 0;
 
     public DiskUsage() {}
